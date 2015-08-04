@@ -5,7 +5,7 @@ public class HelloWorld {
 		System.out.println("Hello World! We're using Git!");
 		System.out.println("And now for a second commit!");
 		System.out.println("this is the master");
-		System.out.println("another line");
+		System.out.println("in Branch 1");
 	}
 
 }
